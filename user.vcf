@@ -7,7 +7,7 @@ ORG:Famcor Franchise Management and Executive Development Corporation;
 TITLE:CEO and Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:vgespeleta@famcorconsultants.com
 TEL;type=WORK;type=VOICE:+63 917 321 2123
-item1.ADR;type=WORK;type=pref:;;Room 205 Advent Business Center\, 169 Acacia Street;;;Cebu City;Philippines
+item1.ADR;type=WORK;type=pref:;;Room 205 Advent Business Center\, 169 Acacia Street\,Cebu City;Philippines
 item1.X-ABADR:sg
 item2.URL;type=pref:famcorconsultants.com
 item2.X-ABLabel:_$!<HomePage>!$_
